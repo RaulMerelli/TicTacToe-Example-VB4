@@ -1,0 +1,2 @@
+# TicTacToe-Example-VB4
+Example VB4 (it's created with VB6, but with 16bit VB4 compatibility in mind) application, made to be my first Windows 3.11 16bit program. It's derived from my TitTacToe-Example VB6 version, but edited to load resources from files, and not compiled into the binary from a .res file. Also, the X and the O pictures are not anymore picturebox controls generated dinamically but static control hidden and showed, because I wasn't able to use the Controls.Add ability in VB4.
